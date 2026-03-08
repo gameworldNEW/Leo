@@ -14,6 +14,9 @@ int radius = 10
 str name = "Leo Project"
 bool isActive = true
 
+## Quick Start if you get NPM
+1. Install: `npm install -g leo-lang-uzwerg-lfn`
+2. Run IDE: `leo-ide` (or `python intre.py`)
 
 Basic I/O
 type="text": Prints a string to the console.
