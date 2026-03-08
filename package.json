@@ -1,19 +1,31 @@
 {
   "name": "leo-lang-uzwerg-lfn",
-  "version": "1.0.3",
-  "description": "Simple language with C# bridge",
+  "version": "1.0.4",
+  "description": "Simple interpreted language with C# (.NET) bridge and built-in IDE",
   "main": "intre.py",
   "bin": {
-    "leo": "intre.py"
+    "leo-ide": "intre.py"
   },
   "scripts": {
     "start": "python intre.py"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gameworldNEW/Leo"
+    "url": "git+https://github.com"
   },
-  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com"
+  },
+  "homepage": "https://github.com",
+  "keywords": [
+    "language",
+    "interpreter",
+    "csharp",
+    "ide",
+    "leo"
+  ],
+  "author": "UzwerG",
+  "license": "MIT",
   "engines": {
     "node": ">=10"
   }
