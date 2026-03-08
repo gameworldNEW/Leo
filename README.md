@@ -1,4 +1,6 @@
-Leo Language 🦁
+# Leo Language 🦁
+[![npm](https://img.shields.io)](https://www.npmjs.com)
+
 Leo is a lightweight, interpreted programming language designed for simplicity and educational purposes. It features a built-in professional IDE with syntax highlighting, line numbering, and a unique bridge to C# (.NET) libraries.
 🖥️ IDE Features
 Modern UI: Dark-themed editor inspired by VS Code.
